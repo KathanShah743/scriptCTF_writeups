@@ -18,4 +18,5 @@ I solved a total of 13 problems in the CTF competition:
   - More Divisors
   - Back from Where
   - Windows to Infinity
-I am including the three with which I am the most comfortable
+
+I am including the three with which I am the most comfortable.
