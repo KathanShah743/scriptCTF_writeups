@@ -1,6 +1,4 @@
-# scriptCTF_writeups
-
-# 1. Subtract
+# Subtract
 Description: The image size is 500x500. You might want to remove some stuff...
 
 My approach:
